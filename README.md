@@ -10,8 +10,8 @@ COMING SOON!
 ## Installation
 
 ```
-git clone https://github.com/mkhira2/hashiru.git
-cd hashiru
+git clone https://github.com/mkhira2/blogzilla.git
+cd blogzilla
 npm install
 npm start
 
