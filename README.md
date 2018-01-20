@@ -1,10 +1,9 @@
 # Blogzilla
 
-Standard blog application written with react + redux. Enjoy the beauty of broadcasting your life events to the world through the magic of efficient rendering!
+Blog application written with react + redux. Enjoy the beauty of broadcasting your life events to the world through the magic of efficient rendering!
 
 
 ## Screenshot
-COMING SOON!
 ![Blogzilla](/src/images/blogzilla.png)
 
 ## Installation
