@@ -14,9 +14,8 @@ cd blogzilla
 npm install
 npm start
 
-open localhost:8080 in the browser
 ```
-
+open localhost:8080 in the browser
 ## License
 
 This project is licensed under the MIT License.
