@@ -38,6 +38,6 @@
     "redux": "^3.0.4",
     "redux-form": "^6.6.3",
     "redux-promise": "^0.5.3",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.9"
   }
 }
